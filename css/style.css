@@ -181,12 +181,20 @@ button:active {
     }
 
     h1 {
-        font-size: 3rem;
+        font-size: 3.4rem;
+        line-height: 1.1;
     }
 
     .content > * {
         text-align: left;
     }
 
-    
+    .info {
+        /* padding: 0 100%; */
+    }
+
+    .form-wrapper {
+        /* margin-right: 20rem; */
+        max-width: 550px;
+    }
 }
